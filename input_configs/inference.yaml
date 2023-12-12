@@ -1,0 +1,5 @@
+input_dir: ./save/alibaba
+prompts_file_path: ./prompt.txt
+iteration: 250
+seeds: [21,22,23,24]
+torch_dtype: fp16
